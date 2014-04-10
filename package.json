@@ -1,0 +1,8 @@
+{
+  "name": "ecmascript5-cn",
+  "version": "0.0.1",
+  "description": "",
+  "dependencies": {
+    "cssmin": "^0.4.1"
+  }
+}
